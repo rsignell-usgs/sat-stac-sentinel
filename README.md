@@ -75,7 +75,7 @@ Thanks to Frederico Liporace for his article [Keeping a SpatioTemporal Asset Cat
 
 ## Public Catalogs
 
-An earlier version of the repository was used to create the [Sentinel-2 STAC 0.6.0 catalog](https://sentinel-stac.s3.amazonaws.com/catalog.json), which is indexed in [Earth-Search](https://earth-search.aws.element84.com/stac) and [Development Seed's sat-api](https://sat-api.developmentseed.org/stac).
+An earlier version of the repository was used to create the [Sentinel-2 STAC 0.6.0 catalog](https://sentinel-stac.s3.amazonaws.com/catalog.json), which is indexed in [Earth-Search](https://earth-search.aws.element84.com/v0) and [Development Seed's sat-api](https://sat-api.developmentseed.org/stac).
 
 This section will be updated with newer catalogs as they become available.
 
